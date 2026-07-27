@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\G-ASP-NET-87-CS02",
+    "\\G-ASP-NET-87-CS02\\ConsoleApp1",
+    "\\G-ASP-NET-87-CS02\\ConsoleApp1\\ConsoleApp1"
   ],
+  "SelectedNode": "\\G-ASP-NET-87-CS02\\ConsoleApp1\\ConsoleApp1\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
