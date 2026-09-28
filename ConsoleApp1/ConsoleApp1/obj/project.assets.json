@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Assignment\\G-ASP-NET-87-OOP05\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "F:\\Assignment\\Advanced-03\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "F:\\Assignment\\G-ASP-NET-87-OOP05\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "F:\\Assignment\\Advanced-03\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\elattar\\.nuget\\packages\\",
-      "outputPath": "F:\\Assignment\\G-ASP-NET-87-OOP05\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "F:\\Assignment\\Advanced-03\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
